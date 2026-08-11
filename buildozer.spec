@@ -273,8 +273,8 @@ android.allow_backup = True
 
 #p4a.url =
 #p4a.fork = kivy
-#p4a.branch = master
-#p4a.commit = HEAD
+p4a.branch = master
+p4a.commit = e155baf
 #p4a.source_dir =
 #p4a.local_recipes =
 #p4a.hook =
